@@ -1,0 +1,22 @@
+.checkout {
+    display: flex;
+    margin: 20px 0;
+    img {
+        object-fit: contain;
+        width: 180px;
+        height: 180px;
+    }
+    button {
+        margin-top: 10px;
+        background-color: #f0c14b;
+        border: 1px solid #a88734 #9c7e31 #846a29;
+        color: #111;
+    }
+}
+
+.divInfo {
+    padding-left: 20px;
+}
+
+.info {
+}
